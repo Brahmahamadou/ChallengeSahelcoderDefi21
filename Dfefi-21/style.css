@@ -1,0 +1,96 @@
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+}
+.contenant{
+    width: 110%;
+    height: 40rem;
+    background-color: rgb(245, 239, 230);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -2rem;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.image1{
+    width: 300px;
+    height: 31rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0.5, 0, 0.5);  
+
+}
+img{
+    width: 350px;
+    height: 15rem;
+    border-radius: 10px;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    box-shadow: 0 0 10px rgba(0, 0.5, 0, 0.5);  
+}
+.image2{
+    width: 290px;
+    height: 15rem;
+    border-radius: 10px;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+.image3{
+    width: 410px;
+    height: 15rem;
+    border-radius: 10px;
+    margin-top: 1rem;
+    margin-left: 1rem;
+  box-shadow: 0 0 10px rgba(0, 0.5, 0, 0.5);  
+}
+.texte{
+    text-align: center;
+    background-color:  rgb(245, 239, 230);
+    width: 110%;
+    padding-top: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+h3{
+    color:chocolate;
+}
+.photo1 p{
+    position: absolute;
+    margin-top: -3rem;
+    margin-left: 2rem;
+    font-weight: bold;
+    color:chocolate;
+}
+.photo p{
+    position: absolute;
+}
+.radi{
+    margin-left: 4rem;
+    margin-top: 2rem;
+    color: sienna;
+    font-weight: bolder;
+}
+.mus{
+    margin-left: 30rem;
+    margin-top: 2rem;
+    color: beige;
+    font-weight: bold;
+}
+.photo2 p{
+    position: absolute;
+}
+.gira{
+    margin-left: 6rem;
+    margin-top: 1.5rem;
+    color:rgb(8, 59, 8);
+    font-weight: bolder;  
+}
+.zind{
+    margin-left: 30rem;
+    margin-top: 3rem;
+    font-weight: bold;
+}
